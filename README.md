@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvarakshak" alt="atharvarakshak" /></a> </p>
 
-- 🌱 I’m currently learning **Django , React**
+- 🌱 I’m currently learning **Machine Learning, Devops **
 
 - 👨‍💻 All of my projects are available at [https://github.com/atharvarakshak](https://github.com/atharvarakshak)
 
-- 💬 Ask me about **React,Javascript,Node.js**
+- 💬 Ask me about **React, Javascript, Next.js**
 
 - 📫 How to reach me **atharvarakshak23@gmail.com**
 
